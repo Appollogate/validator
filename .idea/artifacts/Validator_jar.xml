@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Validator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Validator_jar</output-path>
+    <root id="archive" name="Validator.jar">
+      <element id="module-output" name="Validator" />
+    </root>
+  </artifact>
+</component>
